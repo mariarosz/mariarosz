@@ -10,7 +10,9 @@ I’m a Full Stack Engineer with a solid design background and human centred app
 *   ✉️  You can contact me at [roszykmaria@gmail.com](mailto:roszykmaria@gmail.com)
 *   🧠  I'm learning how to make a chrome extension
 *   🤝  I'm open to collaborating on interesting projects
-*   ⚡  I like getting wet in the rain and being able to fit all my belonging in one backpack### Skills 
+*   ⚡  I like getting wet in the rain and being able to fit all my belonging in one backpack
+
+### Skills 
 <p align="left">
 <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/typescript-colored.svg" width="36" height="36" alt="TypeScript" /></a>
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="JavaScript" /></a>
