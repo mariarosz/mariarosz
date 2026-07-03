@@ -2,9 +2,9 @@
 
 I’m a product engineer, artist and community builder.
 
-I build human-centred products at the intersection of technology, family life, learning and memory. Before moving into software, I worked across contemporary art, interactive media, AR/VR and community building.
+I build human-centred products around family life, learning and memory. Before moving into software, I worked across contemporary art, AR/VR and community building.
 
-I’m currently exploring how private, parent-controlled AI agents can help families turn what they know about their children into meaningful books, experiences and learning opportunities.
+I’m currently building a private, parent-controlled AI agent that helps families turn what they know about their children into relevant books, projects and learning experiences.
 
 ## What I’m building
 
